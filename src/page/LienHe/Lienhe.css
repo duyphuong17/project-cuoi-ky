@@ -1,0 +1,52 @@
+.lh-title{
+    display: flex;
+    height: 35px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+.lh-main{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.lh-main .lh-wrap{
+    width: 50%;
+}
+.lh-main .lh-wrap .lh-item .lh-title-1{
+    font-size: 15px;
+    font-weight: 700;
+}
+.lh-main .lh-wrap .lh-item .lh-desc{
+    font-size: 15px;
+    opacity: 0.6;
+    width: 90%;
+}
+
+.lh-image{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-self: center;
+}
+.lh-image img{
+    max-width: 100%;
+}
+.lh-google-map{
+    color: #123253;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 100px;
+}
+
+.lh-gg img {
+    width: 800px; 
+    height: 400px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-right: 100px;
+}

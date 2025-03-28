@@ -1,0 +1,46 @@
+.gv{
+    padding: 50px;
+}
+.gv h1{
+    padding: 20px;
+}
+.gv-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #123253;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.gv-main {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    height: 300px;
+    margin-left: 100px;
+}
+.gv-main .gv-img {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin-right: 50px;
+}
+.gv-main .gv-img img {
+    height: 100%;
+    width: 100%;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+.gv-main .gv-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gv-name {
+    font-size: 24px;
+    font-weight: 500;
+    color: #123253;
+}
