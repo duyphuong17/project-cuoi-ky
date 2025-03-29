@@ -169,28 +169,28 @@ function KhoaHocIELTS() {
             <div className="kh-ie-7" style={{ backgroundImage: `url(/image/bg-kh-2.jpg)` }}>
                 <h2>QUYỀN LỢI HỌC VIÊN XUYÊN SUỐT LỘ TRÌNH</h2>
                 <div className="row">
-                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3 kh-ie-7-content" >
+                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 kh-ie-7-content" >
                         <img src="/image/kh-6.1.png" />
                         <div className="kh-ie-7-desc">
                             <span>Giảng viên</span>
                             <p>Được lựa chọn và thay đổi giáo viên yêu thích, tăng thêm hứng thú trong việc học</p>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3 kh-ie-7-content">
+                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 kh-ie-7-content">
                         <img src="/image/kh-6.2.png" />
                         <div className="kh-ie-7-desc">
                             <span>Báo cáo tiến bộ lớp học định kỳ</span>
                             <p>Kết quả được cập nhật liên tục có hỗ trợ trực tiếp qua nhóm chat, group hỗ trợ học viên</p>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3 kh-ie-7-content">
+                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 kh-ie-7-content">
                         <img src="/image/kh-6.3.png" />
                         <div className="kh-ie-7-desc">
                             <span>Cá nhân hoá lộ trình theo mục tiêu</span>
                             <p>Xây dựng lộ trình riêng, tư vấn định hướng học tuỳ theo mục tiêu của học viên</p>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3 kh-ie-7-content">
+                    <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 kh-ie-7-content">
                         <img src="/image/kh-6.4.png" />
                         <div className="kh-ie-7-desc">
                             <span>Tài liệu tự học tiếng Anh miễn phí</span>
